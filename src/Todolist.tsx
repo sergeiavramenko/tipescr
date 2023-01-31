@@ -40,6 +40,9 @@ export function Todolist(props: PropsTyp) {
           <button>all</button>
           <button>active</button>
           <button>Completed</button>
+          <button>all</button>
+          <button>active</button>
+          <button>Completed</button>
         </div> 
       </div>
   

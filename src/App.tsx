@@ -13,6 +13,9 @@ function App() {
     {id: 2,    title: "JS",  isDone: true},
     {id: 3,    title: "React",  isDone: false},
     {id: 4,    title: "Redux",  isDone: true},
+    {id: 5,    title: "Redukkx",  isDone: false},
+    {id: 3,    title: "React",  isDone: false},
+    {id: 4,    title: "Redux",  isDone: true},
     {id: 5,    title: "Redukkx",  isDone: false}
   ]); 
 
